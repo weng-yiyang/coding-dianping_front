@@ -1,3 +1,2 @@
-
-Documentation is available at http://nginx.org
-
+1. clone目录下打开终端控制台，用start nginx.exe启动
+2. 打开浏览器，F12然后选择手机模式，输入网址localhost:8080
